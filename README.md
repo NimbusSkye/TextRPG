@@ -5,6 +5,8 @@ This application implements File IO to read and write to text files that contain
 
 Player.txt and Monster.txt contain the name, attack, max health, and number of wins for the player and monster, respectively. The program will automatically increment the number of wins for the victor after each battle. Spells.txt specifies the name, damage, and accuracy of each spell that is available to the player.
 
+Please head over to the "Releases" tab and download the latest release if you wish to test out the program.
+
 Sample output:
 ```
 Name: Odin
