@@ -7,6 +7,8 @@ Player.txt and Monster.txt contain the name, attack, max health, and number of w
 
 **Please click [here](https://github.com/NimbusSkye/TextRPG/releases/download/1.0.0/TextRPG.zip) to download the latest release if you wish to test out the program.**
 
+On Windows, open Command Prompt and type ```java -jar TextRPG.jar```. On Linux, mark the jar file as executable and double-click on it.
+
 Sample output:
 ```
 Name: Odin
