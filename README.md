@@ -1,7 +1,7 @@
 # TextRPG
 Text RPG game using Java.
 
-This application implements File IO to read and write to text files that contain information about the player, the monster, and the spells that the player can use. The outcome of each engagement is decided by a Random Number Generator provided by Java.util.Random. 
+This application uses Java.io to read and write to text files that contain information about the player, the monster, and the spells that the player can use. The outcome of each engagement is decided by a Random Number Generator provided by Java.util.Random. 
 
 Player.txt and Monster.txt contain the name, attack, max health, and number of wins for the player and monster, respectively. The program will automatically increment the number of wins for the victor after each battle. Spells.txt specifies the name, damage, and accuracy of each spell that is available to the player.
 
